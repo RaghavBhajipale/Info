@@ -9,7 +9,7 @@ const Container = styled.section`
     align-items: center;
     height:50vh;
     width:100%;
-    background-color: red;
+    background-color: white;
     /* border: 1px solid blue; */
 `;
 
