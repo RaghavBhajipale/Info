@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/info/static/css/main.54ef5e9c.css",
+    "main.js": "/info/static/js/main.ce8b710a.js",
+    "static/media/Avenir-Book-01.ttf": "/info/static/media/Avenir-Book-01.ab7aa26986df653dedc1.ttf",
+    "static/media/Avenir-Medium-09.ttf": "/info/static/media/Avenir-Medium-09.90ba4d31a83ca40b27d8.ttf",
+    "static/media/Avenir-Heavy-05.ttf": "/info/static/media/Avenir-Heavy-05.ef8835d185e784ae3f88.ttf",
+    "static/media/Avenir-Roman-12.ttf": "/info/static/media/Avenir-Roman-12.c0f2c1bfb99c316e4497.ttf",
+    "static/media/Avenir-Light-07.ttf": "/info/static/media/Avenir-Light-07.d7d158a298aa946d69ad.ttf",
+    "static/media/Valencia.ttf": "/info/static/media/Valencia.982aa30178d00befd6f0.ttf",
+    "static/media/insta.svg": "/info/static/media/insta.61deed1ba8f170c294c80a372966bd1f.svg",
+    "static/media/mail.svg": "/info/static/media/mail.faca000c1aad5163b2d6e95ee27fc449.svg",
+    "static/media/twitter.svg": "/info/static/media/twitter.91acf50ab549ac25dded24a3929ab749.svg",
+    "static/media/linkedin.svg": "/info/static/media/linkedin.88cca3a11b1215b7b9741c88430a192f.svg",
+    "static/media/whatsapp.svg": "/info/static/media/whatsapp.c6111176d4bdce55f3be1c4ce0e30a13.svg",
+    "static/media/fb.svg": "/info/static/media/fb.7e6381d2d10d34963a5c0e48c890a424.svg",
+    "index.html": "/info/index.html",
+    "main.54ef5e9c.css.map": "/info/static/css/main.54ef5e9c.css.map",
+    "main.ce8b710a.js.map": "/info/static/js/main.ce8b710a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ef5e9c.css",
+    "static/js/main.ce8b710a.js"
+  ]
+}
